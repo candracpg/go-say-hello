@@ -1,3 +1,3 @@
-module github.com/candracpg/go-say-hello
+module github.com/candracpg/go-say-hello/v2
 
 go 1.17
